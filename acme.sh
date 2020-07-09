@@ -5303,7 +5303,7 @@ _installcert() {
     if [ ! -f "$_real_fullchain_key" ]; then
       install -c -m600 /dev/null "$_real_fullchain_key"
     fi
-    cat "$CERT_FULLCHAIN_PATH" "$CERT_KEY_PATH" >"$_real_fullchain_key" || return 1
+    cat "$CERT_KEY_PATH" "$CERT_FULLCHAIN_PATH" >"$_real_fullchain_key" || return 1
   fi
 
   if [ "$_reload_cmd" ]; then
