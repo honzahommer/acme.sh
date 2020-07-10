@@ -1,4 +1,4 @@
-# An ACME Shell script: acme.sh [![Build Status](https://travis-ci.org/acmesh-official/acme.sh.svg?branch=master)](https://travis-ci.org/acmesh-official/acme.sh)
+# An ACME Shell script: acme.sh [![Build Status](https://travis-ci.org/honzahommer/acme.sh.svg?branch=master)](https://travis-ci.org/honzahommer/acme.sh)
 
 <a href="https://opencollective.com/acmesh" alt="Financial Contributors on Open Collective"><img src="https://opencollective.com/acmesh/all/badge.svg?label=financial+contributors" /></a> [![Join the chat at https://gitter.im/acme-sh/Lobby](https://badges.gitter.im/acme-sh/Lobby.svg)](https://gitter.im/acme-sh/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - An ACME protocol client written purely in Shell (Unix shell) language.
